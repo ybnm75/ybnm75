@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [NADIF](https://github.com/ybnm75/NADIF)
 
-- 🌱 I’m currently learning **Dart - Flutter**
+- 🌱 I’m currently learning **Machine LEARNING - Python**
 
-- 💬 Ask me about **Flutter - Java**
+- 💬 Ask me about **Python - Flutter**
 
 - 📫 How to reach me **benmeridjaahmedyounes1@gmail.com**
 
