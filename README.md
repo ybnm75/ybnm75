@@ -32,13 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ybnm75&show_icons=true&locale=en" alt="ybnm75" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ybnm75&" alt="ybnm75" /></p>
-
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
