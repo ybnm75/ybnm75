@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Benmeridja Ahmed Younes</h1>
-<h3 align="center">A passionate flutter & frontend developer from ALGERIA</h3>
+<h3 align="center">A passionate data scientist & flutter developer from ALGERIA</h3>
 <img align="right" alt = "coding image" width= "400" src="https://img.freepik.com/vetores-gratis/homem-jovem-sentando-e-trabalhando-computador-laptop_76775-232.jpg?size=338&ext=jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ybnm75&label=Profile%20views&color=0e75b6&style=flat" alt="ybnm75" /> </p>
