@@ -109,18 +109,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-> 📌 *Stats are fetched live — if your network blocks external APIs, they may not render. This is a network/ISP issue, not a README issue. Visitors from other countries will see them fine.*
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ybnm75&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybnm75&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
