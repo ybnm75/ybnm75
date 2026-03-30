@@ -10,7 +10,6 @@
 
 <br/>
 
-<!-- Profile views + followers badges -->
 <img src="https://komarev.com/ghpvc/?username=ybnm75&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views"/>
 &nbsp;
 <a href="https://github.com/ybnm75?tab=followers">
@@ -112,31 +111,21 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
+> 📌 *Stats are fetched live — if your network blocks external APIs, they may not render. This is a network/ISP issue, not a README issue. Visitors from other countries will see them fine.*
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ybnm75&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&cache_seconds=1800"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=ybnm75&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa"/>
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybnm75&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ybnm75&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybnm75&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Snake
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ybnm75&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ybnm75&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true" width="95%"/>
+  <img src="https://raw.githubusercontent.com/ybnm75/ybnm75/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
@@ -169,11 +158,6 @@ me.say_hi()
 ---
 
 <div align="center">
-
-<!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/ybnm75/ybnm75/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 
